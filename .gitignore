@@ -1,0 +1,24 @@
+# Ambiente Virtual
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+*.out
+
+# Credenciais e Configurações Sensiveis
+*.conf
+*.key
+*.pem
+*.token
+credentials.txt
+secrets.json
+
+# OS Files
+.DS_Store
+Thumbs.db
