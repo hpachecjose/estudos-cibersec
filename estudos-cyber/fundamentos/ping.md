@@ -288,6 +288,7 @@ Ao conectar ao Wi-Fi:
 >     echo "✅ Rede aparentemente estável." 
 
 
+
 ## Implementação em Lua
 
 > -- Lua script para ping básico
